@@ -2,7 +2,8 @@
 
 # **CANAL SEGURO**
 
-## El siguiente manual te guiará en el proceso de envío de correo electrónico usando PGP como canal seguro de comunicación, para mayor facilidad se ha dividido en secciones:
+## Bienvenido, el siguiente manual te guiará en el proceso de envío de correo electrónico usando PGP como canal seguro de comunicación, para mayor facilidad se ha dividido en secciones:
+
 
 1. [Instalación](https://github.com/el3ctron/canal_seguro/blob/master/instalacion.md)
 2. [Configuración](https://github.com/el3ctron/canal_seguro/blob/master/configuracion.md)
