@@ -15,8 +15,8 @@ Luego de evaluar las mejores opciones posibles, y con el fín de optimizar la co
 - tiene almacenamiento en la nube gratuito
 
 ## Instalación
-- instalarlo en su market de apps favorito (se recomienda f-droid)
-- crear la cuenta
-- opcionalmente instalar el cliente de escritorio que se puede descargar de https://telegram.org/
-- abrir el navegador y hacer login en https://web.telegram.org/
-- marcar en favoritos el enlace https://web.telegram.org/
+0. Para instarlo en su móbil, buscarlo e instalarlo en su market de apps favorito (se recomienda f-droid)
+1. crear la cuenta
+2. opcionalmente instalar el cliente de escritorio que se puede descargar de https://telegram.org/
+3. abrir el navegador y hacer login en https://web.telegram.org/
+4. marcar en favoritos el enlace https://web.telegram.org/
