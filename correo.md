@@ -9,8 +9,7 @@
 ## Bienvenido, el siguiente manual te guiará en el proceso de envío de correo electrónico usando PGP como canal seguro de comunicación, para mayor facilidad se ha dividido en las siguientes 3 secciones:
 
 
-1. [Chat](https://github.com/el3ctron/canal_seguro/blob/master/chat.md)
-2. [Videoconferencia](https://github.com/el3ctron/canal_seguro/blob/master/videoconferencia.md)
-3. [Correo](https://github.com/el3ctron/canal_seguro/blob/master/correo.md)
-4. Soporte Remoto
+1. [Instalación](https://github.com/el3ctron/canal_seguro/blob/master/instalacion.md)
+2. [Configuración](https://github.com/el3ctron/canal_seguro/blob/master/configuracion.md)
+3. [Envío de correos](https://github.com/el3ctron/canal_seguro/blob/master/enviando.md)
 
