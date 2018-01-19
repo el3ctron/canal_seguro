@@ -16,7 +16,8 @@ Luego de evaluar las mejores opciones posibles, y con el fín de optimizar la co
 
 ## Instalación
 0. Para instarlo en su móbil, buscarlo e instalarlo en su market de apps favorito (se recomienda f-droid)
-1. crear la cuenta
-2. opcionalmente instalar el cliente de escritorio que se puede descargar de https://telegram.org/
-3. abrir el navegador y hacer login en https://web.telegram.org/
+1. abrir el aplicativo en el celular y crear la cuenta
+2. instalar el cliente de escritorio que se puede descargar de https://telegram.org/
+3. abrir su navegador favorito y hacer login en https://web.telegram.org/
 4. marcar en favoritos el enlace https://web.telegram.org/
+5. si el navegador ofrece "mostrar notificaciones de telegram" haga click en aceptar.
