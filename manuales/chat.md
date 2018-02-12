@@ -28,4 +28,4 @@
 
 ## Nota
 
-Una vez se haya puesto en uso el programa de mensajería instantánea, contáctate con los miembros del equipo y adicionalos a tus contactos. Escríbeles un corto saludo para que sepan que ya estás en la plataforma y para que la conversación sea iniciada.
+Una vez se haya puesto en uso el programa de mensajería instantánea, contáctate con los miembros del equipo y adicionalos a tus contactos. Escríbeles un corto saludo para que sepan que ya estás en la plataforma y para que la conversación sea iniciada. Este paso es junto con el correo el más importante para el inicio de la construcción del proyecto.

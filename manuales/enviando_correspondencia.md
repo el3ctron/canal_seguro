@@ -17,5 +17,6 @@ El cuerpo del mensaje ha sido cifrado y transformado. Por ejemplo, el texto ante
 
 ![](https://ssd.eff.org/files/2014/10/13/290pgpmessage.png)
 
+## Nota
 
-## 
+Una vez se haya puesto en uso el programa de correspondencia, contáctate con los miembros del equipo y adicionalos a tus contactos. Escríbeles un corto saludo para que sepan quién eres, cuál es tu dirección de contacto. Este paso, es el más importante para el inicio de la construcción del proyecto.
