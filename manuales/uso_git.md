@@ -1,7 +1,8 @@
+![](https://snipcart.com/media/10182/git-based-content-workflow-github.jpg)
+
 Una vez instalado git, la herramienta ofrece tres formas para usarla:
 
 # Uso de git mediante el navegador
-La más sencilla de todas es usando el navegador
 
 1. ingresas con tu nombre de usuario a github (ó a la plataforma donde está alojado tu proyecto)
 
@@ -12,17 +13,17 @@ La más sencilla de todas es usando el navegador
 
 3. Una vez tengas los cambios realizados asegúrate de guardarlos, describiendo lo que adicionaste y/ó los motivos de los cambios a archivos que ya existían.
 
-NOTA. Si bien el trabajo con git mediante el navegador es muy fácil, puede no ser la más productiva ya que el nevagador es una herramienta genérica, es decir, no es lo mismo editar texto en una casilla de texto de firefox, que trabajar con tu editor de texto favorito, así que para aumentar la productividad están explicadas las siguientes dos secciones de este manual.
+NOTA. Si bien el trabajo con git mediante el navegador es la más fácil posible, puede no ser la más productiva ya que el nevagador es una herramienta genérica, es decir, no es lo mismo editar texto en una casilla de texto de firefox, que trabajar con tu editor de texto favorito, así que para aumentar la productividad, se dejan explicadas a continuación las siguientes dos secciones de este manual.
 
 # Uso de git mediante consola
 
 1. Abre una consola y ubícate en el directorio en el que quieras trabajar
-        cd /ruta/al/directorio/donde_quiero/trabajar
+    cd /ruta/al/directorio/donde_quiero/trabajar
 
 2. Crea una copia local del repositorio del proyecto ejecutando
-        git clone /path/to/repository
-    Si utilizas un servidor remoto, ejecuta
-        git clone username@host:/path/to/repository
+   git clone /path/to/repository
+Si utilizas un servidor remoto, ejecuta
+    git clone username@host:/path/to/repository
 
 3. Inicia tu trabajo y guarda los cambios
     Puedes registrar cambios (añadirlos al Index) usando
