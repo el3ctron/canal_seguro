@@ -22,14 +22,14 @@ Una vez instalado git:
     * Cada vez que vayas a trabajar en el proyecto asegurate de descargar las últimas actualizaciones, para actualizar tu repositorio local al commit más nuevo, para bajar y fusionar los cambios remotos, ejecuta en tu directorio de trabajo:
         git pull
 
-    Interfaz gráfica por defecto
+    * Interfaz gráfica por defecto
         gitk
 
-    Colores especiales para la consola
+    * Colores especiales para la consola
         git config color.ui true
 
-    Mostrar sólo una línea por cada commit en la traza
+    * Mostrar sólo una línea por cada commit en la traza
         git config format.pretty oneline
 
-    Agregar archivos de forma interactiva
+    * Agregar archivos de forma interactiva
         git add -i
