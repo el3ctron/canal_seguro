@@ -5,10 +5,26 @@
 
 ## Bienvenido, el siguiente manual te guiará paso a paso en el proceso de configuración de la herramienta de videoconferencia.
 
-1. Intalación
+0. Beneficios
+- tiene versión web
+- usar el chat de texto
+- compartir documentos (lo que te genera un Etherpad para editar de manera colaborativa, directamente en la ventana de la llamada)
+- muy útil para presentaciones
+- compartir tu pantalla
+- tener acceso a tus contactos de los servicios que soporta
+- más seguro que skype
+- mejor calidad de llamada
+
+1. Instalación web
+- no hay que instalar nada, solo entra a http://meet.jit.si y listo
+
+1. Instalación local
 - entrar a https://jitsi.org/Main/Download y descargar
 - dos clicks al programa e instalar
 - este programa no requiere crear cuentas de usuario
+
+1. Instalación en el móbil
+- buscarlo en su market de apps favorito e instalar
 
 2. Uso
 - abrir el programa
