@@ -1,9 +1,9 @@
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Telegram_alternative_logo.svg/480px-Telegram_alternative_logo.svg.png)
 
 
 # **CANAL SEGURO DE CHAT**
 
-## Bienvenido, el siguiente manual te guiará paso a paso en el proceso de instalación y configuración de las herramientas con el fin de facilitar la operación dentro de un canal seguro de comunicación. 
+## Bienvenido, el siguiente manual te guiará paso a paso en el proceso de instalación y configuración de las herramientas con el fin de facilitar la operación dentro de un canal seguro de comunicación.
 
 Luego de evaluar las mejores opciones posibles, y con el fín de optimizar la comunicación del equipo se sugiere el uso de telegram, debido a:
 
