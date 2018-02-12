@@ -1,22 +1,9 @@
-**Versiones usadas en esta guía**:Windows 10 Ultimate; Mozilla Thunderbird 45.2.0; Enigmail 1.9; GnuPG 2.1.14
-
-**Licencia**: Software Libre
-
-**Lugares de descarga**:
-
-- [Enigmail](https://www.enigmail.net/index.php/en/)
-- [GnuPG](https://gnupg.org/)
-- [Mozilla Thunderbird](https://www.mozilla.org/en-US/thunderbird/)
-
-
-
 # **Instrucciones de Instalación**
 
 
+## Descargando GnuPG
 
-## Obteniendo GnuPG
-
-Puedes descargar GnuPG (también conocido como GPG) en Windows descargando un pequeño instalador desde la página de descargas de [GnuPG](https://gnupg.org/download/index.html#sec-1-2).
+Puedes descargar GnuPG (también conocido como GPG) en Windows descargando un pequeño instalador desde la página de descargas de [GnuPG](https://gnupg.org/download/index.html#sec-1-2) ó en [GnuPG](https://gnupg.org/).
 
 ![](https://ssd.eff.org/files/2016/08/12/001.png)
 
@@ -30,7 +17,7 @@ Muchos navegadores te pedirán confirmar si deseas descargar este archivo. Micro
 
 ## Descargando Mozilla Thunderbird
 
-Ve a la página de Mozilla Thunderbird.
+Ve a la página de Mozilla Thunderbird -> [Mozilla Thunderbird](https://www.mozilla.org/en-US/thunderbird/)
 
 ![](https://ssd.eff.org/files/2016/08/12/003.png)
 
@@ -103,5 +90,3 @@ Te resumirá de donde se instalarán los archivos de Mozilla. Haga clic en el bo
 Cuando el proceso de instalación se haya completado, aparecerá una ventana final que te permite iniciar Mozilla. Haz clic en el botón "Finalizar".
 
 ![](https://ssd.eff.org/files/2016/08/12/019.png)
-
-## 
