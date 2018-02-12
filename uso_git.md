@@ -38,21 +38,22 @@ NOTA. Si bien el trabajo con git mediante el navegador es muy fácil, puede no s
     Reemplaza master por la rama a la que quieres enviar tus cambios.
 
 # Uso de git mediante una interfaz gráfica
-    Existen muchos productos para la visualización del repositorio mediante una interfaz gráfica pero la mayoría son de pago, debido a que cada uno tiene interfaces específicas, se escapa a este manual la explicación, se sugiere que al intentar trabajar con alguna de esas herramientas con interfaz gráfica consultar el manual de ayuda que vienen con esas soluciones específicas.
+
+Existen muchos productos para la visualización del repositorio mediante una interfaz gráfica pero la mayoría son de pago, debido a que cada uno tiene interfaces específicas, se escapa a este manual la explicación, se sugiere que al intentar trabajar con alguna de esas herramientas con interfaz gráfica consultar el manual de ayuda que vienen con esas soluciones específicas.
 
 
 # Recomendaciones importantes
 
-    * Los cambios en el repositorio git pueden ser observados mediante una interfaz gráfica como gitk
+* Los cambios en el repositorio git pueden ser observados mediante una interfaz gráfica como gitk
 
-    * Cada vez que vayas a trabajar en el proyecto asegurate de descargar las últimas actualizaciones, para actualizar tu repositorio local al commit más nuevo, para bajar y fusionar los cambios remotos, ejecuta en tu directorio de trabajo:
+* Cada vez que vayas a trabajar en el proyecto asegurate de descargar las últimas actualizaciones, para actualizar tu repositorio local al commit más nuevo, para bajar y fusionar los cambios remotos, ejecuta en tu directorio de trabajo:
         git pull
 
-    * Colores especiales para la consola
+* Colores especiales para la consola
         git config color.ui true
 
-    * Mostrar sólo una línea por cada commit en la traza
-        git config format.pretty oneline
+* Mostrar sólo una línea por cada commit en la traza
+    git config format.pretty oneline
 
-    * Agregar archivos de forma interactiva
-        git add -i
+* Agregar archivos de forma interactiva
+  git add -i
