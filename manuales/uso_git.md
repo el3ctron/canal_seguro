@@ -14,7 +14,7 @@ Una vez se ha instalado git, la herramienta ofrece tres formas para usarla:
 
 3. Una vez tengas los cambios realizados asegúrate de guardarlos, ve al final de la página y describen en las casillas lo que adicionaste y/ó los motivos de los cambios a los archivos que ya existían.
 
-NOTA. Si bien el trabajo con git mediante el navegador es la más fácil posible, puede no ser la más productiva ya que el nevagador es una herramienta genérica, es decir, no es lo mismo editar texto en una casilla de texto de firefox, que trabajar con tu editor de texto favorito, así que para aumentar la productividad, se dejan explicadas a continuación las siguientes dos secciones de este manual.
+NOTA. Si bien el trabajo con git mediante el navegador es la más fácil posible, puede no ser la más productiva ya que el navegador es una herramienta genérica, es decir, no es lo mismo editar texto en una casilla de texto de firefox, que trabajar con tu editor de texto favorito, :wink: así que para aumentar la productividad, se dejan explicadas a continuación las siguientes dos secciones de este manual.
 
 # Uso de git mediante consola
 
@@ -78,6 +78,6 @@ Existen muchos productos para la visualización del repositorio mediante una int
 
     ```git add -i```
 
-* Se recomienda notificar al líder del proyecto con un correo electrónico en caso de una observación extra a tus modificaciones.
+* En caso de una observación extra respecto a tus modificaciones, se recomienda notificar al líder del proyecto con un correo electrónico. :mail:
 
-* Algunas modificaciones son conflictivas ó incompletas, debes estar atento a las recomendaciones que hace el líder del proyecto y efectuar los cambios necesarios con el fín de que tus aportes sean adicionados.
+* Algunas modificaciones son conflictivas ó incompletas, debes estar atento a las recomendaciones que hace el líder del proyecto y efectuar los cambios necesarios con el fín de que tus aportes sean adicionados a la rama principal del proyecto. :ok_hand:
