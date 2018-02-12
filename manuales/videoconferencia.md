@@ -3,9 +3,11 @@
 
 # **Jitsi**
 
-## Bienvenido, el siguiente manual te guiará paso a paso en el proceso de configuración de la herramienta de videoconferencia.
+Es una aplicación de videoconferencia, VoIP, y mensajería instantánea para Windows, Linux y Mac OS X.
 
-0. Beneficios
+Entre los beneficios de usar esta herramienta son:
+
+- compatibilidad con varios protocolos populares de mensajería instantánea y de telefonía
 - tiene versión web
 - usar el chat de texto
 - compartir documentos (lo que te genera un Etherpad para editar de manera colaborativa, directamente en la ventana de la llamada)
@@ -14,6 +16,8 @@
 - tener acceso a tus contactos de los servicios que soporta
 - más seguro que skype
 - mejor calidad de llamada
+
+## Bienvenido, el siguiente manual te guiará paso a paso en el proceso de configuración de la herramienta de videoconferencia.
 
 1. Instalación web
 - no hay que instalar nada, solo entra a http://meet.jit.si y listo
@@ -31,6 +35,6 @@
 - copiar el código de sesión que le hayan enviado, y en caso de que la persona con la que se va a comunicar no le haya enviado un código, copie el código que le aparece apenas abre el programa
 - iniciar sesión con ese código compartido
 
-En caso de ayuda extra mirar
+En caso de ayuda extra se recomienda
 
-https://www.youtube.com/watch?v=BhmOg0G-Frw
+![Tutorial en video de jitsi](https://www.youtube.com/watch?v=BhmOg0G-Frw)

@@ -1,6 +1,3 @@
-
-
-
 ![](http://www.recorcholis.net/blog/wp-content/uploads/2009/10/pgp_logo.jpg)
 
 
@@ -10,8 +7,8 @@
 
 
 1. [Videoconferencia](./manuales/videoconferencia.md)
-2. [Soporte Remoto](https://github.com/el3ctron/canal_seguro/blob/master/soporte.md)
-3. [Chat](https://github.com/el3ctron/canal_seguro/blob/master/chat.md)
-4. [Gestor de proyecto](https://github.com/el3ctron/canal_seguro/blob/master/git.md)
-5. [Repositorio de archivos](https://github.com/el3ctron/canal_seguro/blob/master/gestores_de_sincronizacion.md)
-6. [Correo](https://github.com/el3ctron/canal_seguro/blob/master/correo.md)
+2. [Soporte Remoto](./manuales/soporte.md)
+3. [Chat](./manuales/chat.md)
+4. [Gestor de proyecto](./manuales/git.md)
+5. [Repositorio de archivos](./manuales/gestores_de_sincronizacion.md)
+6. [Correo](./manuales/correo.md)
