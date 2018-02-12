@@ -37,6 +37,4 @@ Los beneficios de usar esta herramienta son:
 
 ## Nota
 
-En caso de ayuda extra se recomienda
-
-![Tutorial en video de jitsi](https://www.youtube.com/watch?v=BhmOg0G-Frw)
+En caso de ayuda extra se recomienda el siguiente ![videotutorial de jitsi.](https://www.youtube.com/watch?v=BhmOg0G-Frw)
