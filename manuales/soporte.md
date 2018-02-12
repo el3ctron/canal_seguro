@@ -7,13 +7,13 @@
 
 * **Como instalarlo**
 
-    ## Descarga
+    ### Descarga
     Abre tu navegador y dirígete al sitio oficial del software. En la pantalla principal, busca el menú Descargas y una vez dentro, en el margen superior, verás un botón con el logotipo y el nombre de Windows. Pincha sobre él y haz click en el botón que indica la última versión para que se inicie la descarga de la aplicación.
 Instalación de la aplicación
 
     Cuando se complete la descarga, haz doble click sobre el icono para iniciar el proceso de instalación. Entonces, aparecerá una pantalla de bienvenida a TeamViewer donde podrás seleccionar la opción de Instalar. Asegúrate de darle al botón que indica Privadamente / no comercial.
 
-    ## Configuración de TeamViewer
+    ### Configuración de TeamViewer
 
     En la siguiente pantalla tendrás que determinar el tipo de instalación de TeamViewer. El asistente te preguntará si vas a querer acceder a tu ordenador remotamente, o por lo general, sólo lo querrás para conectarte a otros equipos. Si en este momento no lo tienes claro, mejor selecciona Sí, que es la opción con más variedad.
 
