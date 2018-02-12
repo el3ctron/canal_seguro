@@ -1,4 +1,4 @@
-![](http://www.recorcholis.net/blog/wp-content/uploads/2009/10/pgp_logo.jpg)
+![Mozilla thunderbird](https://upload.wikimedia.org/wikipedia/commons/f/f7/Mozilla_Thunderbird_logo.png)
 
 
 # **CANAL SEGURO DE CORRESPONDENCIA**

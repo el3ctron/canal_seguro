@@ -1,4 +1,4 @@
-![](https://snipcart.com/media/10182/git-based-content-workflow-github.jpg)
+![GIT](https://snipcart.com/media/10182/git-based-content-workflow-github.jpg)
 
 # Manual de instalación de git
 

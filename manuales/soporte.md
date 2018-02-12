@@ -1,4 +1,4 @@
-![](https://pbs.twimg.com/profile_images/692291794567061505/sOJTY29d.png)
+![Teamviewer](https://pbs.twimg.com/profile_images/692291794567061505/sOJTY29d.png)
 
 
 # **SOPORTE TÉCNICO**

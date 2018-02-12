@@ -1,4 +1,4 @@
-![](http://cdn.array.se/files/2012/02/iOS-5-WiFi-Sync.jpg)
+![Sincronizaición](http://cdn.array.se/files/2012/02/iOS-5-WiFi-Sync.jpg)
 
 # **Gestores de sincronización**
 
