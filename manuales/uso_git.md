@@ -18,10 +18,10 @@ NOTA. Si bien el trabajo con git mediante el navegador es la más fácil posible
 # Uso de git mediante consola
 
 1. Abre una consola y ubícate en el directorio en el que quieras trabajar
-    cd /ruta/al/directorio/donde_quiero/trabajar
+```cd /ruta/al/directorio/donde_quiero/trabajar```
 
 2. Crea una copia local del repositorio del proyecto ejecutando
-   git clone https://direccion/del/repositorio/del/proyecto.git
+```git clone https://direccion/del/repositorio/del/proyecto.git```
 Si utilizas un servidor remoto, ejecuta
     git clone username@host:/path/to/repository
 
