@@ -16,12 +16,12 @@ Una vez se ha instalado git, la herramienta ofrece tres formas para usarla:
 
     * [__para modificar un archivo que ya existía__](./git_modificar_archivo.md)
 
-    :note:Nota:
+    :memo: Nota:
     Los nombres de archivo creados a través de la interfaz web solo pueden contener caracteres alfanuméricos y guiones ( - ). Para usar otros caracteres, cree y confirme los archivos localmente, luego en consola haz un ```git push``` al repositorio en GitHub.
 
 3. Una vez tengas los cambios realizados asegúrate de guardarlos, ve al final de la página y describen en las casillas lo que adicionaste y/ó los motivos de los cambios a los archivos que ya existían.
 
-:note:Nota: Si bien el trabajo con git mediante el navegador es la más fácil posible, puede no ser la más productiva ya que el navegador es una herramienta genérica, es decir, no es lo mismo editar texto en una casilla de texto de firefox, que trabajar con tu editor de texto favorito :wink:, así que para aumentar la productividad, se dejan explicadas a continuación las siguientes dos secciones de este manual.
+:bulb: Nota: Si bien el trabajo con git mediante el navegador es la más fácil posible, puede no ser la más productiva ya que el navegador es una herramienta genérica, es decir, no es lo mismo editar texto en una casilla de texto de firefox, que trabajar con tu editor de texto favorito :wink:, así que para aumentar la productividad, se dejan explicadas a continuación las siguientes dos secciones de este manual.
 
 ## Uso de git mediante consola
 
