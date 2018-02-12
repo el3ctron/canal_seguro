@@ -1,7 +1,6 @@
-![telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Telegram_alternative_logo.svg/480px-Telegram_alternative_logo.svg.png)
-
-
 # **CANAL SEGURO DE CHAT**
+
+![telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Telegram_alternative_logo.svg/480px-Telegram_alternative_logo.svg.png)
 
 ## Telegram Messenger es un servicio de mensajería por Internet multiplataforma.
 

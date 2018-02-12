@@ -1,4 +1,4 @@
-# Git
+# GIT
 
 ![GIT](https://snipcart.com/media/10182/git-based-content-workflow-github.jpg)
 

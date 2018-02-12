@@ -1,8 +1,4 @@
-
-
-# Configuración
-
-
+# Configuración del cliente de correo electrónico
 
 ## Preparación para la instalación de Enigmail
 

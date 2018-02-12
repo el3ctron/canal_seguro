@@ -1,7 +1,6 @@
-![Jitsi](https://pbs.twimg.com/profile_images/651990494898077696/F0VxeYZj_400x400.png)
-
-
 # **Jitsi**
+
+![Jitsi](https://pbs.twimg.com/profile_images/651990494898077696/F0VxeYZj_400x400.png)
 
 ## Es una aplicación de videoconferencia, VoIP, y mensajería instantánea para Windows, Linux y Mac OS X.
 

@@ -1,7 +1,6 @@
+# **HERRAMIENTAS PARA FACILITACIÓN DE SOPORTE TÉCNICO REMOTO**
+
 ![Teamviewer](https://pbs.twimg.com/profile_images/692291794567061505/sOJTY29d.png)
-
-
-# **SOPORTE TÉCNICO**
 
 ## El siguiente manual te guiará paso a paso en el proceso de instalación, configuración y uso de las herramientas de soporte técnico:
 
