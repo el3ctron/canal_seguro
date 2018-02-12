@@ -6,7 +6,7 @@ __2.__ Debajo de su nombre de repositorio, haga clic en Cargar archivos.
 ## 
 
 __3.__ Arrastre y suelte el área Arrastre y suelte el archivo o la carpeta que desea cargar en su repositorio en el árbol de archivos.
-![upload-files-drag-and-drop](../imgsupload-files-drag-and-drop.png)
+![upload-files-drag-and-drop](../imgs/upload-files-drag-and-drop.png)
 ## 
 
 __4.__ En la parte inferior de la página, escriba un breve y significativo mensaje de confirmación que describa el cambio que realizó en el archivo. Puede atribuir el compromiso a más de un autor en el mensaje de confirmación. Para obtener más información, consulte " Creación de una confirmación con múltiples coautores ".
