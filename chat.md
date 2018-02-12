@@ -21,3 +21,7 @@ Luego de evaluar las mejores opciones posibles, y con el fín de optimizar la co
 3. abrir su navegador favorito y hacer login en https://web.telegram.org/
 4. marcar en favoritos el enlace https://web.telegram.org/
 5. si el navegador ofrece "mostrar notificaciones de telegram" haga click en aceptar.
+
+## Instalación
+1. abrir la aplicación
+2. ingresar con el número telefónico

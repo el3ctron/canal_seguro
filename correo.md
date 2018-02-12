@@ -1,6 +1,3 @@
-
-
-
 ![](http://www.recorcholis.net/blog/wp-content/uploads/2009/10/pgp_logo.jpg)
 
 

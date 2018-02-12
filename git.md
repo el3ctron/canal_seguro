@@ -1,8 +1,7 @@
+!()[https://snipcart.com/media/10182/git-based-content-workflow-github.jpg]
 
-* **Como instalarlo**
-  1. hacer click en https://db.tt/L4SOuNV0
-  2. Entrar a https://www.dropbox.com/es/install y descargar el cliente en su estación de trabajo
-  3. Instalar el ejecutable descargado
-  4. iniciar sesión
-* **Como instalarlo**
-  OJO, si borra los archivos en la carpera, los borrará también en el computador de los demás y la recuperación de la información es MUY difícil, sea cuidadoso con la carpeta compartida.
+Git es un software de control de versiones, su propósito es llevar registro de los cambios en archivos de computadora y coordinar el trabajo que varias personas realizan sobre archivos compartidos.
+
+* **[Como instalarlo](https://github.com/el3ctron/canal_seguro/blob/master/instacion_git.md)**
+
+* **[Como usarlo](https://github.com/el3ctron/canal_seguro/blob/master/uso_git.md)**
