@@ -1,4 +1,4 @@
-![](http://www.recorcholis.net/blog/wp-content/uploads/2009/10/pgp_logo.jpg)
+![MANUALES PARA GESTIÓN DE PROYECTOS](https://cdn.pixabay.com/photo/2014/12/28/10/53/social-media-581783_640.jpg)
 
 
 # **MANUALES DE INSTALACIÓN, CONFIGURACIÓN Y USO DE HERRAMIENTAS PARA LA GESTIÓN DE PROYECTOS**
