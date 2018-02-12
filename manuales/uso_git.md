@@ -21,7 +21,7 @@ Una vez se ha instalado git, la herramienta ofrece tres formas para usarla:
 
 3. Una vez tengas los cambios realizados asegúrate de guardarlos, ve al final de la página y describen en las casillas lo que adicionaste y/ó los motivos de los cambios a los archivos que ya existían.
 
-:bulb: Nota: Si bien el trabajo con git mediante el navegador es la más fácil posible, puede no ser la más productiva ya que el navegador es una herramienta genérica, es decir, no es lo mismo editar texto en una casilla de texto de firefox, que trabajar con tu editor de texto favorito :wink:, así que para aumentar la productividad, se dejan explicadas a continuación las siguientes dos secciones de este manual.
+:bulbc0: Nota: Si bien el trabajo con git mediante el navegador es la más fácil posible, puede no ser la más productiva ya que el navegador es una herramienta genérica, es decir, no es lo mismo editar texto en una casilla de texto de firefox, que trabajar con tu editor de texto favorito :wink:, así que para aumentar la productividad, se dejan explicadas a continuación las siguientes dos secciones de este manual.
 
 ## Uso de git mediante consola
 
