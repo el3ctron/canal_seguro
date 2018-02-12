@@ -1,17 +1,18 @@
 ![](https://snipcart.com/media/10182/git-based-content-workflow-github.jpg)
 
-Una vez instalado git, la herramienta ofrece tres formas para usarla:
+Una vez se ha instalado git, la herramienta ofrece tres formas para usarla:
 
 # Uso de git mediante el navegador
 
-1. ingresas con tu nombre de usuario a github (ó a la plataforma donde está alojado tu proyecto)
+1. ingresas con tu nombre de usuario a [github](https://github.com) (ó a la plataforma donde está alojado tu proyecto)
 
 2. ubicas la sección en donde quieres adicionar cambios:
-    para adicionar un nuevo archivo
 
-    para modificar un archivo que ya existía, le das click al archivo, ahí das click en el lapicito y en seguida adicionas tus cambios
+    * **para adicionar un nuevo archivo**
 
-3. Una vez tengas los cambios realizados asegúrate de guardarlos, describiendo lo que adicionaste y/ó los motivos de los cambios a archivos que ya existían.
+    * __para modificar un archivo que ya existía, le das click al archivo, ahí das click en el lapicito y en seguida adicionas tus cambios__
+
+3. Una vez tengas los cambios realizados asegúrate de guardarlos, ve al final de la página y describen en las casillas lo que adicionaste y/ó los motivos de los cambios a los archivos que ya existían.
 
 NOTA. Si bien el trabajo con git mediante el navegador es la más fácil posible, puede no ser la más productiva ya que el nevagador es una herramienta genérica, es decir, no es lo mismo editar texto en una casilla de texto de firefox, que trabajar con tu editor de texto favorito, así que para aumentar la productividad, se dejan explicadas a continuación las siguientes dos secciones de este manual.
 
@@ -76,3 +77,7 @@ Existen muchos productos para la visualización del repositorio mediante una int
 * Agregar archivos de forma interactiva
 
     ```git add -i```
+
+* Se recomienda notificar al líder del proyecto con un correo electrónico en caso de una observación extra a tus modificaciones.
+
+* Algunas modificaciones son conflictivas ó incompletas, debes estar atento a las recomendaciones que hace el líder del proyecto y efectuar los cambios necesarios con el fín de que tus aportes sean adicionados.
