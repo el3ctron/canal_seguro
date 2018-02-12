@@ -8,9 +8,12 @@
 
 
 * **Como instalarlo**
+
   * hacer click en https://db.tt/L4SOuNV0
   * Entrar a https://www.dropbox.com/es/install y descargar el cliente en su estación de trabajo
   * Instalar el ejecutable descargado
   * iniciar sesión
+
 * **Como usarlo**
-  OJO, si borra los archivos en la carperta, los borrará también en el computador de los demás y la recuperación de la información es MUY difícil, sea cuidadoso con la carpeta compartida.
+
+  * OJO, si borra los archivos en la carpeta, borrará también esos archivos en el computador de los demás y la recuperación de la información es MUY difícil, sea cuidadoso con la carpeta compartida a la que tiene acceso, en caso de querer eliminarla, asegúrese primero de avisar al líder del equipo de trabajo para ser dado de baja en el repositorio.
