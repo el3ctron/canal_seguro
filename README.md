@@ -6,9 +6,10 @@
 ## Bienvenido, el siguiente manual guiará paso a paso en el proceso de instalación, configuración y uso de las herramientas base para la construcción del proyecto. Para definir el nivel de importancia de las herramientas, se ha definido el siguiente orden:
 
 
-1. [Soporte remoto](./manuales/soporte.md)
-2. [Mensajería instantánea](./manuales/chat.md)
-3. [Correspondencia](./manuales/correo.md)
-4. [Gestor de proyecto](./manuales/git.md)
-5. [Repositorio de archivos](./manuales/gestores_de_sincronizacion.md)
+1. [Correspondencia](./manuales/correo.md)
+2. [Gestor de proyecto](./manuales/git.md)
+3. [Repositorio de archivos](./manuales/gestores_de_sincronizacion.md)
+4. [Soporte remoto](./manuales/soporte.md)
+5. [Mensajería instantánea](./manuales/chat.md)
 6. [Videoconferencia](./manuales/videoconferencia.md)
+7. [Lector de noticias](./manuales/rss.md)

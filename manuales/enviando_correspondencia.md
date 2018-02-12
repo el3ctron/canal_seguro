@@ -19,4 +19,4 @@ El cuerpo del mensaje ha sido cifrado y transformado. Por ejemplo, el texto ante
 
 ## Nota
 
-Una vez se haya puesto en uso el programa de correspondencia, contáctate con los miembros del equipo y adicionalos a tus contactos. Escríbeles un corto saludo para que sepan quién eres, cuál es tu dirección de contacto. Este paso, es el más importante para el inicio de la construcción del proyecto.
+Una vez se haya puesto en uso el programa de correspondencia, contáctate con los miembros del equipo y adicionalos a tus contactos. Escríbeles un corto saludo para que sepan quién eres y cuál es tu dirección de contacto. **Este paso, es el más importante para el inicio de la construcción del proyecto.**
