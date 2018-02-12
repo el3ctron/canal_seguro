@@ -25,3 +25,7 @@
 ## Uso
 1. abrir la aplicación
 2. ingresar con el número telefónico
+
+## Nota
+
+Una vez se haya puesto en uso el programa de mensajería instantánea, contáctate con los miembros del equipo y adicionalos a tus contactos. Escríbeles un corto saludo para que sepan que ya estás en la plataforma y para que la conversación sea iniciada.
