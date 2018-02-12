@@ -1,14 +1,14 @@
 Una vez instalado git, la herramienta ofrece tres formas para usarla:
 
 # Uso de git mediante el navegador
-    La más sencilla de todas es usando el navegador
-    1. ingresas con tu nombre de usuario a github (ó a la plataforma donde está alojado tu proyecto)
+La más sencilla de todas es usando el navegador
+1. ingresas con tu nombre de usuario a github (ó a la plataforma donde está alojado tu proyecto)
     2. ubicas la sección en donde quieres adicionar cambios:
     para adicionar un nuevo archivo
 
     para modificar un archivo que ya existía, le das click al archivo, ahí das click en el lapicito y en seguida adicionas tus cambios
     3. Una vez tengas los cambios realizados asegúrate de guardarlos, describiendo lo que adicionaste y/ó los motivos de los cambios a archivos que ya existían.
-    NOTA. Si bien el trabajo con git mediante el navegador es muy fácil, puede no ser la más productiva ya que el nevagador es una herramienta genérica, es decir, no es lo mismo editar texto en una casilla de texto de firefox, que trabajar con tu editor de texto favorito, así que para aumentar la productividad están explicadas las siguientes dos secciones de este manual.
+NOTA. Si bien el trabajo con git mediante el navegador es muy fácil, puede no ser la más productiva ya que el nevagador es una herramienta genérica, es decir, no es lo mismo editar texto en una casilla de texto de firefox, que trabajar con tu editor de texto favorito, así que para aumentar la productividad están explicadas las siguientes dos secciones de este manual.
 
 # Uso de git mediante consola
     1. Abre una consola y ubícate en el directorio en el que quieras trabajar
