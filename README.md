@@ -1,7 +1,7 @@
-<center>![](http://www.recorcholis.net/blog/wp-content/uploads/2009/10/pgp_logo.jpg)</center>
+![](http://www.recorcholis.net/blog/wp-content/uploads/2009/10/pgp_logo.jpg)
 
 
-# **MANUALES DE DEFINICIÓN PARA UN CANAL SEGURO**
+<center># **MANUALES DE DEFINICIÓN PARA UN CANAL SEGURO**</center>
 
 ## Bienvenido, el siguiente manual guiará paso a paso en el proceso de configuración de las herramientas base para la construcción del proyecto. Para priorizar en nivel de importancia, se ha definido el siguiente orden:
 
