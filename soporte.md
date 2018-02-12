@@ -1,4 +1,4 @@
-![](https://sophosnews.files.wordpress.com/2016/06/tv-12002.png?w=780&h=408&crop=1)
+![](https://pbs.twimg.com/profile_images/692291794567061505/sOJTY29d.png)
 
 
 # **SOPORTE TÉCNICO**

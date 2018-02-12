@@ -2,8 +2,8 @@
 
 # **Gestores de sincronización**
 
-## El mayor desafío revolucionario que existe para nuestra generación, es que la gente aprenda sobre el significado de la coordinación remota, y para superar ese desafío se sugieren las siguientes herramientas:
+## El mayor desafío revolucionario que existe para nuestra generación, es interpretar el significado de la coordinación remota, y para superar ese desafío se definen las siguientes herramientas:
 
-1. GIT
-2. Yandex
-3. Dropbox
+1. ![GIT](https://github.com/el3ctron/canal_seguro/blob/master/git.md)
+2. ![Yandex](https://github.com/el3ctron/canal_seguro/blob/master/yandex.md)
+3. ![Dropbox](https://github.com/el3ctron/canal_seguro/blob/master/dropbox.md)
