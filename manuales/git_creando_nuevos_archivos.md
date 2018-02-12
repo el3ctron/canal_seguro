@@ -21,7 +21,7 @@ __6.__ Para revisar el contenido nuevo, haga clic en **Vista previa**.
 ![new-file-preview](../imgs/new-file-preview.png)
 ## 
 
-__7.__ En la parte inferior de la página, escriba un breve y significativo mensaje que describa el cambio que realizó en el archivo. 
+__7.__ En la parte inferior de la página, escriba un breve y significativo mensaje que describa el cambio que realizó en el archivo.
 ![write-commit-message-quick-pull.png](../imgs/write-commit-message-quick-pull.png)
 :memo: Si el archivo tiene coautoría con alguna otra persona puedes mencionarla adicionando a la descripción del commit, el nombre de usuario y correo electrónico del coautor asi: ```Co-authored-by: name <name@example.com>```
 ## 
