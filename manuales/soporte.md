@@ -5,7 +5,7 @@
 
 ## El siguiente manual te guiará paso a paso en el proceso de instalación, configuración y uso de las herramientas de soporte técnico:
 
-* **###Como instalarlo**
+* **### Como instalarlo**
 
     #### Descarga
     Abre tu navegador y dirígete al sitio oficial del software. En la pantalla principal, busca el menú Descargas y una vez dentro, en el margen superior, verás un botón con el logotipo y el nombre de Windows. Pincha sobre él y haz click en el botón que indica la última versión para que se inicie la descarga de la aplicación.
@@ -27,12 +27,12 @@ Instalación de la aplicación
 
     Para una guía gráfica ir a https://computerhoy.com/paso-a-paso/software/como-instalar-teamviewer-windows-1499
 
-* **##Como usarlo**
+* **### Como usarlo**
 
     * Si tú eres quien necesita soporte técnico abre la aplicación y en la ventana que aparece hay un código que debes copiar y enviarlo a la persona que te está ayudando
 
     * Si estás ofrenciendo ayuda solicita el código e ingrésalo en la casilla de conexión.
 
-* **Recomendaciones**
+* **### Recomendaciones**
 
     * Cuando entregas el código de tu máquina estás dando la posibilidad para que otra persona tenga el control total de ella por el tiempo que dure la conexión, asegúrate de estar entregando ese código a la persona correcta.
