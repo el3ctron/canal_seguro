@@ -3,7 +3,7 @@
 
 # **Jitsi**
 
-Es una aplicación de videoconferencia, VoIP, y mensajería instantánea para Windows, Linux y Mac OS X.
+## Es una aplicación de videoconferencia, VoIP, y mensajería instantánea para Windows, Linux y Mac OS X.
 
 Los beneficios de usar esta herramienta son:
 

@@ -3,16 +3,16 @@
 
 # **CANAL SEGURO DE CHAT**
 
-## Bienvenido, el siguiente manual te guiará paso a paso en el proceso de instalación y configuración de las herramientas con el fin de facilitar la operación dentro de un canal seguro de comunicación.
-
-Luego de evaluar las mejores opciones posibles, y con el fín de optimizar la comunicación del equipo se sugiere el uso de telegram, debido a:
+## Telegram Messenger es un servicio de mensajería por Internet multiplataforma.
 
 ## Ventajas de telegram
 - corre en computadores y celulares de muy baja gama
 - es multiplataforma
-- tiene un web login simple y sin dependencias
-- no pone limitantes ni amenazas por actualizaciones sorpresa
+- tiene un web login simple y sin dependencias, es decir, si pierdes tu celular, igual puedes acceder a telegram sin problemas.
+- no pone limitantes de espacio, ni problemas por actualizaciones sorpresa
 - tiene almacenamiento en la nube gratuito
+
+## El siguiente manual guiará paso a paso en el proceso de instalación y configuración de las herramientas para la operación dentro de un canal seguro de comunicación.
 
 ## Instalación
 0. Para instarlo en su móbil, buscarlo e instalarlo en su market de apps favorito (se recomienda f-droid)
@@ -22,6 +22,6 @@ Luego de evaluar las mejores opciones posibles, y con el fín de optimizar la co
 4. marcar en favoritos el enlace https://web.telegram.org/
 5. si el navegador ofrece "mostrar notificaciones de telegram" haga click en aceptar.
 
-## Instalación
+## Uso
 1. abrir la aplicación
 2. ingresar con el número telefónico

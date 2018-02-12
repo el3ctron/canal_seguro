@@ -27,7 +27,9 @@ Ahora tendrás que crear una cuenta de TeamViewer. Escoge la opción de Deseo cr
 
 Para una guía gráfica ir a https://computerhoy.com/paso-a-paso/software/como-instalar-teamviewer-windows-1499
 
-### 5. Como usarlo
+
+
+### Como usarlo
 
 * Si tú eres quien necesita soporte técnico abre la aplicación y en la ventana que aparece hay un código que debes copiar y enviarlo a la persona que te está ayudando
 
