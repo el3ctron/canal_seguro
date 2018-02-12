@@ -1,9 +1,9 @@
 ![](http://www.recorcholis.net/blog/wp-content/uploads/2009/10/pgp_logo.jpg)
 
 
-# **MANUALES DE DEFINICIÓN PARA UN CANAL SEGURO**
+# **MANUALES DE INSTALACIÓN, CONFIGURACIÓN Y USO DE HERRAMIENTAS PARA LA GESTIÓN DE PROYECTOS**
 
-## Bienvenido, el siguiente manual guiará paso a paso en el proceso de instalación, configuración y uso de las herramientas base para la construcción del proyecto. Para definir el nivel de importancia de las herramientas, se ha definido el siguiente orden:
+## Bienvenido, el siguiente manual guiará paso a paso en el proceso de instalación, configuración y uso de las herramientas base para la construcción del proyecto. La siguiente lista priorizada define el nivel de importancia de las herramientas para la gestión:
 
 
 1. [Correspondencia](./manuales/correo.md)
