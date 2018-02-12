@@ -4,6 +4,6 @@
 
 ## El mayor desafío revolucionario que existe para nuestra generación, es interpretar el significado de la coordinación remota, y para superar ese desafío se definen las siguientes herramientas:
 
-1. ![GIT](https://github.com/el3ctron/canal_seguro/blob/master/git.md)
-2. ![Yandex](https://github.com/el3ctron/canal_seguro/blob/master/yandex.md)
-3. ![Dropbox](https://github.com/el3ctron/canal_seguro/blob/master/dropbox.md)
+1. ![GIT](./manuales/git.md)
+2. ![Yandex](./manuales/yandex.md)
+3. ![Dropbox](./manuales/dropbox.md)
