@@ -10,11 +10,14 @@ Una vez se ha instalado git, la herramienta ofrece tres formas para usarla:
 
 2. ubicas la sección en donde quieres adicionar cambios:
 
-    * **para adicionar un nuevo archivo**
-    Los nombres de archivo creados a través de la interfaz web solo pueden contener caracteres alfanuméricos y guiones ( - ). Para usar otros caracteres, cree y confirme los archivos localmente, luego en consola haz un ```git push``` al repositorio en GitHub.
+    * [**para adicionar un nuevo archivo**](./git_adicionar_nuevo_archivo.md)
 
-    * __para modificar un archivo que ya existía, le das click al archivo, ahí das click en el lapicito y en seguida adicionas tus cambios__
+    * [__para crear un nuevo archivo__](./git_creando_nuevos_archivos.md)
 
+    * [__para modificar un archivo que ya existía__](./git_modificar_archivo.md)
+
+    ### Nota:
+Los nombres de archivo creados a través de la interfaz web solo pueden contener caracteres alfanuméricos y guiones ( - ). Para usar otros caracteres, cree y confirme los archivos localmente, luego en consola haz un ```git push``` al repositorio en GitHub.
 
 3. Una vez tengas los cambios realizados asegúrate de guardarlos, ve al final de la página y describen en las casillas lo que adicionaste y/ó los motivos de los cambios a los archivos que ya existían.
 
